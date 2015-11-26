@@ -1,24 +1,50 @@
 {
-  "author": "https://github.com/angular-ui/bootstrap/graphs/contributors",
-  "name": "angular-ui-bootstrap",
-  "version": "0.12.1",
+  "name": "angular-bootstrap",
+  "version": "0.12.2",
+  "description": "Bootstrap widgets for Angular modified for custom templates",
+  "main": "ui-bootstrap-tpls.js",
   "homepage": "http://angular-ui.github.io/bootstrap/",
-  "dependencies": {},
-  "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-ngdocs": "~0.1.1",
-    "grunt-conventional-changelog": "~0.1.2",
-    "grunt-contrib-concat": "~0.3.0",
-    "grunt-contrib-copy": "~0.5.0",
-    "grunt-contrib-uglify": "~0.3.0",
-    "grunt-contrib-watch": "~0.5.0",
-    "grunt-contrib-jshint": "~0.8.0",
-    "grunt-html2js": "~0.2.0",
-    "grunt-karma": "~0.4.4",
-    "node-markdown": "0.1.1",
-    "semver": "~2.2.0",
-    "shelljs": "~0.2.0",
-    "grunt-ddescribe-iit": "0.0.4"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular-ui/bootstrap.git"
   },
-  "license": "MIT"
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "angular-ui",
+    "components",
+    "client-side"
+  ],
+  "author": {
+    "name": "https://github.com/angular-ui/bootstrap/graphs/contributors"
+  },
+  "license": "MIT",
+  "gitHead": "f21469c77e37aca22ca5844e9c904247df4a8f42",
+  "bugs": {
+    "url": "https://github.com/angular-ui/bootstrap/issues"
+  },
+  "_id": "angular-bootstrap@0.12.2",
+  "scripts": {},
+  "_shasum": "de9900a7db087a7e9da47304a9c2f77f9c069827",
+  "_from": "angular-bootstrap@~0.12.2",
+  "_npmVersion": "2.9.0",
+  "_nodeVersion": "2.0.1",
+  "_npmUser": {
+    "name": "foxandxss",
+    "email": "Foxandxss@gmail.com"
+  },
+  "dist": {
+    "shasum": "de9900a7db087a7e9da47304a9c2f77f9c069827",
+    "tarball": "http://registry.npmjs.org/angular-bootstrap/-/angular-bootstrap-0.12.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "foxandxss",
+      "email": "Foxandxss@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/angular-bootstrap/-/angular-bootstrap-0.12.2.tgz",
+  "readme": "ERROR: No README data found!"
 }
+
